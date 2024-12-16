@@ -6,10 +6,10 @@ const widget = {
 
   mappings: {
     status_page: {
-      endpoint: "status-page",
+      endpoint: "status",
     },
     heartbeat: {
-      endpoint: "status-page/heartbeat",
+      endpoint: "status/heartbeat",
     },
   },
 };
